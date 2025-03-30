@@ -1,6 +1,6 @@
 # Eu sou Lucas Sousa
 
-## Sou um desenvolvedor de software com grande entusiasmo por tecnologia, especialmente pelo desenvolvimento de jogos  e astronomia 🪐. Dedico meu tempo ao estudo contínuo da programação, buscando aprimorar minhas habilidades, com foco especial na área **Full Stack**. 
+## Sou um desenvolvedor de software com grande entusiasmo por tecnologia, especialmente pelo desenvolvimento de jogos e websites. Dedico meu tempo ao estudo contínuo da programação, buscando aprimorar minhas habilidades, com foco especial na área **Full Stack**. 
 
 Como jovem ambicioso, a área de tecnologia me fascina, pois me oferece a oportunidade de desafiar os limites e construir um futuro extraordinário.
 
